@@ -6,26 +6,25 @@
 
 Hi, glad to meet you~
 
-Here is AyagawaAsaba, a student from Shenzhen, China.
+Here is AyagawaAsaba, a student from AnHui, China.
 
 I'm a 🏳️‍🌈[MtF](https://en.wikipedia.org/wiki/Trans_woman)([Transgender](https://en.wikipedia.org/wiki/Transgender))🏳️‍⚧️, and I think I am just a normal little girl.
 
-I'm interested in coding. In my spare time, I'd like to write code and article. Coding for fun, and I love it. My article would be public in my [blog](https://owomoe.net)(zh-CN).
+I'm interested in coding. In my spare time, I'd like to write code and article. Coding for fun, and I love it. My article would be public in my [blog](https://wiki.zywz.xyz)(zh-CN).
 
 <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyagawaAsaba&layout=compact">
 </a>
 
-~~You can also find my photo on [Twitter](https://twitter.com/AyagawaAsaba/status/1687013115710644224).~~
 
 ![](https://komarev.com/ghpvc/?username=AyagawaAsaba&color=green)
 
-[More about me](https://owomoe.net/other/7.html)
+[More about me](https://www.zywz.xyz)
 
 ### Contact
 
 Welcome to chat with me! Here is my contact.<br>
-And I'm delighted if you can join my [Telegram Channel](https://t.me/rinrinmoe).
+And I'm delighted if you can join my [Telegram Channel](https://t.me/qwpmoe).
 
 [![Twitter](https://img.shields.io/badge/Twitter-20235-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/AyagawaAsaba)
 [![Telegram](https://img.shields.io/badge/Telegram-@RinRinSeirin-00BFFF?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/AyagawaAsaba)
