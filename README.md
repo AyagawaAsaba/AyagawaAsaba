@@ -8,9 +8,9 @@ Hi, glad to meet you~
 
 Here is AyagawaAsaba, a student from AnHui, China.
 
-I'm a 🏳️‍🌈[MtF](https://en.wikipedia.org/wiki/Trans_woman)([Transgender](https://en.wikipedia.org/wiki/Transgender))🏳️‍⚧️, and I think I am just a normal little girl.
+I'm a 🏳️‍🌈[MtF](https://en.wikipedia.org/wiki/Trans_woman)([Transgender](https://en.wikipedia.org/wiki/Transgender))🏳️‍⚧️, and I think I am just a normal little girl in heart. Actually I was still a boy.
 
-I'm interested in coding. In my spare time, I'd like to write code and article. Coding for fun, and I love it. My article would be public in my [blog](https://wiki.zywz.xyz)(zh-CN).
+I'm interested in coding. In my spare time, I'd like to write code and article. Coding for fun, and I love it.Maybe sometimes play many games. My article would be public in my [blog](https://wiki.zywz.xyz)(zh-CN).
 
 <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyagawaAsaba&layout=compact">
