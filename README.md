@@ -18,7 +18,11 @@
 
 <br>
 
-Here is AyagawaAsaba,I'm interested in coding. In my spare time, I'd like to write code and article. Coding for fun, and I love it.Maybe sometimes play many games. My article would be public in my [blog](https://wiki.zywz.xyz)(zh-CN).
+- 👋 Here is AyagawaAsaba,In my spare time, I'd like to study new things and play some games. 
+- 🪄 I'm interested in coding. Coding for fun, and I love it.
+- 💬 Maybe sometimes write article.
+- 🎯 Now I' pedding for Driver's license & Japanese Language
+- 👨‍💻 Striving to survive in the workplace
 
 <br>
 
@@ -52,8 +56,8 @@ Here is AyagawaAsaba,I'm interested in coding. In my spare time, I'd like to wri
 <p align="left">
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSql" /> </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo DB" /> </a>
-    <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Redis-316192?style=for-the-badge&logo=Redis&logoColor=white" alt="Redis" /> </a>
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Redis-D3D3D3?style=for-the-badge&logo=redis&logoColor=red" alt="SQlite" /> </a>
+    <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=Redis&logoColor=white" alt="Redis" /> </a>
+    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Sqlite-D3D3D3?style=for-the-badge&logo=Sqlite&logoColor=red" alt="SQlite" /> </a>
 </p>
  
  <h3 align="left">Using</h3>
@@ -74,5 +78,5 @@ Here is AyagawaAsaba,I'm interested in coding. In my spare time, I'd like to wri
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=AyagawaAsaba&theme=everforest-light&border_radius=4.8&short_numbers=true" alt="GitHub Readme Stats" href="https://git.io/streak-stats" />
-    <img src="https://github-stats-extended.vercel.app/api?username=AyagawaAsaba&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&theme=everforest-light" alt="GitHub Readme Stats" tips="github-readme-stats.vercel.app <=> github-stats-extended.vercel.app" />
+    <img src="https://github-stats-extended.vercel.app/api?username=AyagawaAsaba&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&border_radius=4.8&theme=everforest-light" alt="GitHub Readme Stats" tips="github-readme-stats.vercel.app <=> github-stats-extended.vercel.app" />
 </p>
