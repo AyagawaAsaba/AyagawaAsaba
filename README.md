@@ -62,19 +62,23 @@
  
  <h3 align="left">Others</h3>
  <p align="left">
-     <a href="https://www.windows.com" target="_balck" rel="noreferrer"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/> </a>
-     <a href="https://www.linux.org/pages/download/" target="_black" rel="noreferrer"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /> </a>
      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a>
-     <a href="https://code.visualstudio.com/" target="_black" rel="noreferrer"> <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VsCode" /> </a>
-     <a href="https://www.jetbrains.com/" target="_black" rel="noreferrer"> <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="Jet Brains" /> </a>
-     <a href="https://www.intel.com/" target="_black" rel="noreferrer"> <img src="https://img.shields.io/badge/Intel-0071C5?style=for-the-badge&logo=intel&logoColor=white"alt="Intel" /> </a>
-     <a href="https://www.nvidia.com/" target="_black" rel="noreferrer"> <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"alt="Nvidia" /> </a>
-     <a href="https://www.asus.com/" target="_black" rel="noreferrer"> <img src="https://img.shields.io/badge/ASUS-3B5998?style=for-the-badge&logo=Asus&logoColor=white"alt="ASUS" /> </a>
      <a href="https://nginx.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Nginx-339933?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" /> </a>
      <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> </a>
      <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" /> </a>
      <a href="https://www.zabbix.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Zabbix-CA3636?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" /> </a>
      <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/And So On......-FFFFFF?style=for-the-badge&logo=etc&logoColor=white" alt="And so On" /> </a>
+ </p>
+
+ <h3 align="left">Using</h3>
+ <p align="left">
+     <a href="https://www.windows.com" target="_balck" rel="noreferrer"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/> </a>
+     <a href="https://www.linux.org/pages/download/" target="_black" rel="noreferrer"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /> </a>
+     <a href="https://code.visualstudio.com/" target="_black" rel="noreferrer"> <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VsCode" /> </a>
+     <a href="https://www.jetbrains.com/" target="_black" rel="noreferrer"> <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="Jet Brains" /> </a>
+     <a href="https://www.intel.com/" target="_black" rel="noreferrer"> <img src="https://img.shields.io/badge/Intel-0071C5?style=for-the-badge&logo=intel&logoColor=white"alt="Intel" /> </a>
+     <a href="https://www.nvidia.com/" target="_black" rel="noreferrer"> <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"alt="Nvidia" /> </a>
+     <a href="https://www.asus.com/" target="_black" rel="noreferrer"> <img src="https://img.shields.io/badge/ASUS-3B5998?style=for-the-badge&logo=Asus&logoColor=white"alt="ASUS" /> </a>
  </p>
 
 <br>
